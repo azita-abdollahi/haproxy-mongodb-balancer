@@ -29,10 +29,10 @@ docker compose up -d
 
 ​    Visit: http://localhost:8404
 
-​    Login with: admin / admin123
-
-    you must see page like this:
-	    ![Image](https://github.com/user-attachments/assets/c3f8a33c-6f71-4eb3-9b6d-388b8e354256)
+​    Login with: admin / admin123 
+    
+you must see page like this:
+    ![HAProxy Stats Page](/assets/img.png)
 
 ## 📚 Learn More
 
