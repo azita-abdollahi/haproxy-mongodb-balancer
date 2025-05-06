@@ -31,6 +31,9 @@ docker compose up -d
 
 ​    Login with: admin / admin123
 
+    you must see page like this:
+	    ![Image](https://github.com/user-attachments/assets/c3f8a33c-6f71-4eb3-9b6d-388b8e354256)
+
 ## 📚 Learn More
 
 See the Wiki for full documentation:
