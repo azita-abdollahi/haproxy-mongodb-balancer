@@ -1,6 +1,6 @@
 services:
   haproxy:
-    image: haproxy:latest
+    image: haproxy:3.2-dev13
     container_name: haproxy
     ports:
       - "27018:27018"
